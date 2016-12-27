@@ -15,7 +15,7 @@ public class Apple {
     @FruitColor(fruitColor=Color.RED)
     private String appleColor;
     
-    @FruitProvider(id=1,name="陕西红富士集团",address="陕西省西安市延安路89号红富士大厦")
+    @FruitProvider(id=1,name="烟台红富士",address="山东烟台栖霞市")
     private String appleProvider;
 
 	public String getAppleName() {
